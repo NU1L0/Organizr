@@ -10,7 +10,7 @@
   top: 0px;
   position: fixed;
   z-index: 99999;
-  background: rgba(0, 0, 0, 0.88);
+  background: rgba(143, 22, 22, 0.88);
 }
 .preloader .cssload-speeding-wheel {
   position: absolute;
