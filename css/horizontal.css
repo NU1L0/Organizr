@@ -3,7 +3,7 @@
 @import "spinners.css";
 @import "icons/material-design-iconic-font/css/materialdesignicons.min.css";
 .preloader {
-    width: 10%;
+    width: 103%;
     height: 100%;
     top: 0;
     position: fixed;
